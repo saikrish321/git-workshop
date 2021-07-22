@@ -1,4 +1,4 @@
-function notWorking(){
+function Working(){
     return true;
 }
-notWorking();
+Working();
