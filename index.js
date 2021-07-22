@@ -1,5 +1,4 @@
-function working(){
+function notWorking(){
     return true;
 }
-working();
-//comment by new feature
+notWorking();
