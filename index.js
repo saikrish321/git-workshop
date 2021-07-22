@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 function Working(){
     return true;
 }
@@ -16,4 +14,3 @@ function1 fix(){
 }
 
 // created by new-feature branch
->>>>>>> development
